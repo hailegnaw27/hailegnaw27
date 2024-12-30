@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django
 - 📫 How to reach me hailegnawtadiwos@gmail.com
 - ⚡ Fun fact: I can play piano
-- 👨‍💻 visit my website hailegnawtadiwos.com
+- 👨‍💻 visit my website **hailegnawtadiwos.com**
 <!---
 hailegnaw27/hailegnaw27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
